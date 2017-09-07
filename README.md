@@ -1,11 +1,13 @@
-<a href="https://github.com/openantz/antz/archive/master.zip">DOWNLOAD - MSW app and source</a> branch: master
+<a href="https://github.com/openantz/antz/archive/master.zip">DOWNLOAD - MSW</a>
 
-<a href="https://github.com/openantz/antz/archive/osx.zip">DOWNLOAD - OSX app and source</a> branch: osx
+<a href="https://github.com/openantz/antz/archive/osx.zip">DOWNLOAD - OSX</a>
 
-<a href="https://github.com/openantz/antz/archive/linux.zip">DOWNLOAD - Linux app and source</a> branch: linux
+<a href="https://github.com/openantz/antz/archive/linux.zip">DOWNLOAD - Linux</a>
 
-Command overview 'cheatsheet.txt' is in the 'doc' folder.
+See <a href="https://github.com/openantz/antz/wiki">Wiki - Developer Guide</a>
 
-Doc folder also contains release notes, LICENSE.txt and links to other resources.
+Command 'cheatsheet.txt' and LICENSE.txt are in the <a href="https://github.com/openantz/antz/tree/master/doc">'doc' folder</a>.
 
-You can find sample datasets at ANTz homepage: <a href="http://openantz.com">http://openantz.com</a>
+Sample datasets at http://openantz.com/links.html
+
+Developers should fork the master repo which contains all OS types.
